@@ -1,0 +1,21 @@
+.main-text{
+    font-size: 3em;
+}
+
+.header{
+    font-size: 6em;
+}
+
+.rng-btn{
+    font-size: 3em;
+}
+body{
+    background-image: url(../assets/thanksgiving-meme.avif);
+    max-height: 100vh;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
